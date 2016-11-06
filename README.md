@@ -1,3 +1,3 @@
 # R-Coding
 
-In questa repository verranno messi vari lavori fatti usando R
+In questa repository verranno messi vari lavori fatti usando R con Jupyter Notebook
